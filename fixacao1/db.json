@@ -1,9 +1,6 @@
 {
   "produtos": [
-    {
-      "description": "a",
-      "id": 1
-    },
+     
     {
       "description": "a",
       "id": 2
@@ -23,6 +20,18 @@
     {
       "description": "e",
       "id": 6
-    }
+    },
+    {
+      "description": "f",
+      "id": 7
+    },
+    {
+      "description": "g",
+      "id": 8
+    },
+    {
+      "description": "q",
+      "id": 9
+    } 
   ]
 }
